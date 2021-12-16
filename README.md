@@ -1,2 +1,2 @@
-# stock-price-forecast
-SAP Stock Price Forecast
+# stock-price-forecasting
+SAP Stock Price Forecasting
